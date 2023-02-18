@@ -16,7 +16,7 @@ This repository contains a Vagrantfile and a WordPress configuration file for se
 
         vagrant up
 
-- Once the virtual machine has been started, open a web browser and navigate to http://localhost:8080/ to access your local WordPress installation.
+- Once the virtual machine has been started, open a web browser and navigate to `http://[YOUR_IP_ADDRESS]/wp-admin` to access your local WordPress installation.
 
 ## Configuration
 
